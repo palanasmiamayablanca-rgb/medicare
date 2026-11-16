@@ -1,0 +1,6 @@
+{
+  "intercept": -2.051625557330669,
+  "miss_rate": 3.592933067429544,
+  "few_records": 0.1517934835495967,
+  "description": "Synthetic-data logistic regression; demonstration only, not clinically validated."
+}
